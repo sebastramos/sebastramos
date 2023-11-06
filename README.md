@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
 <h3 align="center">A passionate Software Engineer from Belgium</h3>
 
-- 🌱 I’m currently learning **Node.js, React**
+🌱 I’m currently learning **Node.js, React**
 
-- 👨‍💻 All of my projects are available at [raigoso.dev](raigoso.dev)
+👨‍💻 All of my projects are available at [raigoso.dev](raigoso.dev)
 
-- 💬 Ask me about **anythind and everything!**
+💬 Ask me about **anythind and everything!**
 
-- 📫 How to reach me **hello@raigoso.dev**
+📫 How to reach me **hello@raigoso.dev**
 
-- ⚡ Fun fact **I really love spicy food !**
+⚡ Fun fact **I really love spicy food !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
