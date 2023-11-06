@@ -5,11 +5,11 @@
 
 - 👨‍💻 All of my projects are available at [raigoso.dev](raigoso.dev)
 
-- 💬 Ask me about **Html, CSS, Javascript**
+- 💬 Ask me about **anythind and everything!**
 
 - 📫 How to reach me **hello@raigoso.dev**
 
-- ⚡ Fun fact **I used to be a motion designer in France**
+- ⚡ Fun fact **I really love spicy food !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
