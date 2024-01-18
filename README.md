@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hello@raigoso.dev**
 
-- ⚡ Fun fact **love food !**
+- ⚡ Fun fact **Love lasagna!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
