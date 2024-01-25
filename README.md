@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **hello@raigoso.dev**
 
-- ⚡ Fun fact **I love lasagna!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
