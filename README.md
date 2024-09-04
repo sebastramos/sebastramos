@@ -3,11 +3,7 @@
 
 - 🌱 I’m currently learning **Node.js, Express, MongoDB, React**
 
-- 👨‍💻 All of my projects are available at [raigoso.dev](raigoso.dev)
-
 - 💬 Ask me about **anything!**
-
-- 📫 How to reach me **hello@raigoso.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
